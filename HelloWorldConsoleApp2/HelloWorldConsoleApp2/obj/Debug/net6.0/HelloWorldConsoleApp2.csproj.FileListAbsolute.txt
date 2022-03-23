@@ -1,0 +1,15 @@
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\bin\Debug\net6.0\HelloWorldConsoleApp2.exe
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\bin\Debug\net6.0\HelloWorldConsoleApp2.deps.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\bin\Debug\net6.0\HelloWorldConsoleApp2.runtimeconfig.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\bin\Debug\net6.0\HelloWorldConsoleApp2.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\bin\Debug\net6.0\HelloWorldConsoleApp2.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\obj\Debug\net6.0\HelloWorldConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\obj\Debug\net6.0\HelloWorldConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\obj\Debug\net6.0\HelloWorldConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\obj\Debug\net6.0\HelloWorldConsoleApp2.AssemblyInfo.cs
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\obj\Debug\net6.0\HelloWorldConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\obj\Debug\net6.0\HelloWorldConsoleApp2.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\obj\Debug\net6.0\refint\HelloWorldConsoleApp2.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\obj\Debug\net6.0\HelloWorldConsoleApp2.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\obj\Debug\net6.0\HelloWorldConsoleApp2.genruntimeconfig.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorldConsoleApp2\HelloWorldConsoleApp2\obj\Debug\net6.0\ref\HelloWorldConsoleApp2.dll
