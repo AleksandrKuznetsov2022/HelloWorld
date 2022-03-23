@@ -1,0 +1,15 @@
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\net6.0\HelloWorldConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\net6.0\HelloWorldConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\net6.0\HelloWorldConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\net6.0\HelloWorldConsoleApp1.AssemblyInfo.cs
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\net6.0\HelloWorldConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\bin\Debug\net6.0\HelloWorldConsoleApp1.exe
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\bin\Debug\net6.0\HelloWorldConsoleApp1.deps.json
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\bin\Debug\net6.0\HelloWorldConsoleApp1.runtimeconfig.json
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\bin\Debug\net6.0\HelloWorldConsoleApp1.dll
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\bin\Debug\net6.0\HelloWorldConsoleApp1.pdb
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\net6.0\HelloWorldConsoleApp1.dll
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\net6.0\refint\HelloWorldConsoleApp1.dll
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\net6.0\HelloWorldConsoleApp1.pdb
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\net6.0\HelloWorldConsoleApp1.genruntimeconfig.cache
+C:\Users\Spame\source\repos\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\net6.0\ref\HelloWorldConsoleApp1.dll
