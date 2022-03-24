@@ -21,9 +21,10 @@ Console.WriteLine(information,
                   ScorePhisic);
 Console.WriteLine("Нажмите любую клавишу для получения дополнительной информации");
 Console.ReadKey();
-double SummScore = ScoreProgramming + ScoreMath + ScorePhisic;
+double SummScore = (double) ScoreProgramming + ScoreMath + ScorePhisic;
 Console.WriteLine($"Сумма ваших баллов по предметам: {SummScore} \nНажмите любую клавишу для продолжения");
 Console.ReadKey();
-byte CoutScore = 3;
-double AverageScore = SummScore / CoutScore;
+byte CountScore = 3;
+double AverageScore = (double) SummScore / CountScore;
 Console.WriteLine($"Ваш средний балл по предметам: {AverageScore} \nСпасибо за использование нашей программы");
+Console.ReadKey();
