@@ -1,0 +1,15 @@
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\bin\Debug\net6.0\Peremennie.exe
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\bin\Debug\net6.0\Peremennie.deps.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\bin\Debug\net6.0\Peremennie.runtimeconfig.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\bin\Debug\net6.0\Peremennie.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\bin\Debug\net6.0\Peremennie.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\obj\Debug\net6.0\Peremennie.csproj.AssemblyReference.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\obj\Debug\net6.0\Peremennie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\obj\Debug\net6.0\Peremennie.AssemblyInfoInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\obj\Debug\net6.0\Peremennie.AssemblyInfo.cs
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\obj\Debug\net6.0\Peremennie.csproj.CoreCompileInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\obj\Debug\net6.0\Peremennie.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\obj\Debug\net6.0\refint\Peremennie.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\obj\Debug\net6.0\Peremennie.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\obj\Debug\net6.0\Peremennie.genruntimeconfig.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Peremennie\Peremennie\obj\Debug\net6.0\ref\Peremennie.dll
