@@ -26,5 +26,5 @@ Console.WriteLine($"Сумма ваших баллов по предметам: 
 Console.ReadKey();
 byte CountScore = 3;
 double AverageScore = (double) SummScore / CountScore;
-Console.WriteLine($"Ваш средний балл по предметам: {AverageScore} \nСпасибо за использование нашей программы");
+Console.WriteLine($"Ваш средний балл по предметам: {AverageScore:#.###} \nСпасибо за использование нашей программы");
 Console.ReadKey();
