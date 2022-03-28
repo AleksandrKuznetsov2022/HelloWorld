@@ -1,0 +1,15 @@
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\obj\Debug\net6.0\SummKart.csproj.AssemblyReference.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\obj\Debug\net6.0\SummKart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\obj\Debug\net6.0\SummKart.AssemblyInfoInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\obj\Debug\net6.0\SummKart.AssemblyInfo.cs
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\obj\Debug\net6.0\SummKart.csproj.CoreCompileInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\bin\Debug\net6.0\SummKart.exe
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\bin\Debug\net6.0\SummKart.deps.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\bin\Debug\net6.0\SummKart.runtimeconfig.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\bin\Debug\net6.0\SummKart.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\bin\Debug\net6.0\SummKart.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\obj\Debug\net6.0\SummKart.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\obj\Debug\net6.0\refint\SummKart.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\obj\Debug\net6.0\SummKart.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\obj\Debug\net6.0\SummKart.genruntimeconfig.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\SummKart\obj\Debug\net6.0\ref\SummKart.dll

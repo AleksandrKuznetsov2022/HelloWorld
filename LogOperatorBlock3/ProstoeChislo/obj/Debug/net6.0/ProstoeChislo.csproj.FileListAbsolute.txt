@@ -1,0 +1,15 @@
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\bin\Debug\net6.0\ProstoeChislo.exe
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\bin\Debug\net6.0\ProstoeChislo.deps.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\bin\Debug\net6.0\ProstoeChislo.runtimeconfig.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\bin\Debug\net6.0\ProstoeChislo.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\bin\Debug\net6.0\ProstoeChislo.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\obj\Debug\net6.0\ProstoeChislo.csproj.AssemblyReference.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\obj\Debug\net6.0\ProstoeChislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\obj\Debug\net6.0\ProstoeChislo.AssemblyInfoInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\obj\Debug\net6.0\ProstoeChislo.AssemblyInfo.cs
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\obj\Debug\net6.0\ProstoeChislo.csproj.CoreCompileInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\obj\Debug\net6.0\ProstoeChislo.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\obj\Debug\net6.0\refint\ProstoeChislo.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\obj\Debug\net6.0\ProstoeChislo.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\obj\Debug\net6.0\ProstoeChislo.genruntimeconfig.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\ProstoeChislo\obj\Debug\net6.0\ref\ProstoeChislo.dll

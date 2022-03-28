@@ -1,0 +1,15 @@
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\bin\Debug\net6.0\LogOperatorBlock3.exe
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\bin\Debug\net6.0\LogOperatorBlock3.deps.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\bin\Debug\net6.0\LogOperatorBlock3.runtimeconfig.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\bin\Debug\net6.0\LogOperatorBlock3.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\bin\Debug\net6.0\LogOperatorBlock3.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\LogOperatorBlock3.csproj.AssemblyReference.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\LogOperatorBlock3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\LogOperatorBlock3.AssemblyInfoInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\LogOperatorBlock3.AssemblyInfo.cs
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\LogOperatorBlock3.csproj.CoreCompileInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\LogOperatorBlock3.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\refint\LogOperatorBlock3.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\LogOperatorBlock3.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\LogOperatorBlock3.genruntimeconfig.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\ref\LogOperatorBlock3.dll

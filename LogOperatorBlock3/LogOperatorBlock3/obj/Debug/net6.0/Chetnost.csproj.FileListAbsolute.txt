@@ -1,0 +1,15 @@
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\bin\Debug\net6.0\Chetnost.exe
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\bin\Debug\net6.0\Chetnost.deps.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\bin\Debug\net6.0\Chetnost.runtimeconfig.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\bin\Debug\net6.0\Chetnost.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\bin\Debug\net6.0\Chetnost.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\Chetnost.csproj.AssemblyReference.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\Chetnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\Chetnost.AssemblyInfoInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\Chetnost.AssemblyInfo.cs
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\Chetnost.csproj.CoreCompileInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\Chetnost.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\refint\Chetnost.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\Chetnost.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\Chetnost.genruntimeconfig.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\LogOperatorBlock3\LogOperatorBlock3\obj\Debug\net6.0\ref\Chetnost.dll
