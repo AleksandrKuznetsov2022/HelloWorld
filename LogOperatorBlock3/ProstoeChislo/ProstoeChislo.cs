@@ -17,3 +17,4 @@ if (Prost == true)
 { Console.WriteLine("Число не является простым"); }
 else
 { Console.WriteLine("Число является простым"); }
+Console.ReadKey();

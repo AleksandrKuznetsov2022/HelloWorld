@@ -1,0 +1,15 @@
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\bin\Debug\net6.0\Massiv.exe
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\bin\Debug\net6.0\Massiv.deps.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\bin\Debug\net6.0\Massiv.runtimeconfig.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\bin\Debug\net6.0\Massiv.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\bin\Debug\net6.0\Massiv.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\obj\Debug\net6.0\Massiv.csproj.AssemblyReference.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\obj\Debug\net6.0\Massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\obj\Debug\net6.0\Massiv.AssemblyInfoInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\obj\Debug\net6.0\Massiv.AssemblyInfo.cs
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\obj\Debug\net6.0\Massiv.csproj.CoreCompileInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\obj\Debug\net6.0\Massiv.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\obj\Debug\net6.0\refint\Massiv.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\obj\Debug\net6.0\Massiv.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\obj\Debug\net6.0\Massiv.genruntimeconfig.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\Massiv\Massiv\obj\Debug\net6.0\ref\Massiv.dll
