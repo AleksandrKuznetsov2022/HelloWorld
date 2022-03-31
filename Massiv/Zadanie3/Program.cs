@@ -1,22 +1,14 @@
 ﻿Console.WriteLine("Введите максимальное число");
 int max = int.Parse(Console.ReadLine());
-int [] data = new int[max];
-int count = 0;
+int lenght = max + 1;
+int [] data = new int[lenght];
 for (int i = 0; i < data.Length; i++)
 {
-    if (count < data.Length)
-    {
-        data[count] = i;
-        count++;
-    }
-    else
-        break;
-}
-for (int i = 0; i < data.Length; i++)
+    data[i] = i;
     Console.Write($" {data[i]}");
+}
+Console.WriteLine(); 
 int data1 = data[new Random().Next(0, data.Length)];
-Console.ReadKey();
-
 while (true)
 {
     Console.WriteLine("Введите загаданное число");
