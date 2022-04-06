@@ -1,0 +1,15 @@
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\bin\Debug\net6.0\zadanie47 youtube.exe
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\bin\Debug\net6.0\zadanie47 youtube.deps.json
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\bin\Debug\net6.0\zadanie47 youtube.runtimeconfig.json
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\bin\Debug\net6.0\zadanie47 youtube.dll
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\bin\Debug\net6.0\zadanie47 youtube.pdb
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\obj\Debug\net6.0\zadanie47 youtube.csproj.AssemblyReference.cache
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\obj\Debug\net6.0\zadanie47 youtube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\obj\Debug\net6.0\zadanie47 youtube.AssemblyInfoInputs.cache
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\obj\Debug\net6.0\zadanie47 youtube.AssemblyInfo.cs
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\obj\Debug\net6.0\zadanie47 youtube.csproj.CoreCompileInputs.cache
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\obj\Debug\net6.0\zadanie47 youtube.dll
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\obj\Debug\net6.0\refint\zadanie47 youtube.dll
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\obj\Debug\net6.0\zadanie47 youtube.pdb
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\obj\Debug\net6.0\zadanie47 youtube.genruntimeconfig.cache
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\zadanie47 youtube\zadanie47 youtube\obj\Debug\net6.0\ref\zadanie47 youtube.dll
