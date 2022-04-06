@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Spame\\OneDrive\\Рабочий стол\\youtube\\zadanie47 youtube\\Part2\\Part2.csproj",
+      "projectUniqueName": "C:\\Users\\Spame\\OneDrive\\Документы\\GitHub\\HelloWorld\\method\\Part2\\Part2.csproj",
       "projectName": "Part2",
-      "projectPath": "C:\\Users\\Spame\\OneDrive\\Рабочий стол\\youtube\\zadanie47 youtube\\Part2\\Part2.csproj",
+      "projectPath": "C:\\Users\\Spame\\OneDrive\\Документы\\GitHub\\HelloWorld\\method\\Part2\\Part2.csproj",
       "packagesPath": "C:\\Users\\Spame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Spame\\OneDrive\\Рабочий стол\\youtube\\zadanie47 youtube\\Part2\\obj\\",
+      "outputPath": "C:\\Users\\Spame\\OneDrive\\Документы\\GitHub\\HelloWorld\\method\\Part2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
