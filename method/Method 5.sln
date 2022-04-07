@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "part1", "zadanie47 youtube\part1.csproj", "{637D375A-8C71-46B2-8AE2-4C6C4B1807F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "part1", "zadanie47 youtube\part1.csproj", "{637D375A-8C71-46B2-8AE2-4C6C4B1807F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part2", "Part2\Part2.csproj", "{697164E7-E6BD-4AFA-838B-3D801B32D9EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part2", "Part2\Part2.csproj", "{697164E7-E6BD-4AFA-838B-3D801B32D9EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test1", "test1\test1.csproj", "{8EE2B218-EBDA-4DD6-BDA1-3F11764541B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{697164E7-E6BD-4AFA-838B-3D801B32D9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{697164E7-E6BD-4AFA-838B-3D801B32D9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{697164E7-E6BD-4AFA-838B-3D801B32D9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE2B218-EBDA-4DD6-BDA1-3F11764541B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE2B218-EBDA-4DD6-BDA1-3F11764541B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE2B218-EBDA-4DD6-BDA1-3F11764541B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE2B218-EBDA-4DD6-BDA1-3F11764541B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
