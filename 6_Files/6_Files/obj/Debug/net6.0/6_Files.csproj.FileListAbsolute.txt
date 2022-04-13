@@ -1,0 +1,30 @@
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\bin\Debug\net6.0\6_Files.exe
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\bin\Debug\net6.0\6_Files.deps.json
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\bin\Debug\net6.0\6_Files.runtimeconfig.json
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\bin\Debug\net6.0\6_Files.dll
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\bin\Debug\net6.0\6_Files.pdb
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\obj\Debug\net6.0\6_Files.csproj.AssemblyReference.cache
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\obj\Debug\net6.0\6_Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\obj\Debug\net6.0\6_Files.AssemblyInfoInputs.cache
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\obj\Debug\net6.0\6_Files.AssemblyInfo.cs
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\obj\Debug\net6.0\6_Files.csproj.CoreCompileInputs.cache
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\obj\Debug\net6.0\6_Files.dll
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\obj\Debug\net6.0\refint\6_Files.dll
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\obj\Debug\net6.0\6_Files.pdb
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\obj\Debug\net6.0\6_Files.genruntimeconfig.cache
+C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\6_Files\6_Files\obj\Debug\net6.0\ref\6_Files.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\bin\Debug\net6.0\6_Files.exe
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\bin\Debug\net6.0\6_Files.deps.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\bin\Debug\net6.0\6_Files.runtimeconfig.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\bin\Debug\net6.0\6_Files.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\bin\Debug\net6.0\6_Files.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\obj\Debug\net6.0\6_Files.csproj.AssemblyReference.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\obj\Debug\net6.0\6_Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\obj\Debug\net6.0\6_Files.AssemblyInfoInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\obj\Debug\net6.0\6_Files.AssemblyInfo.cs
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\obj\Debug\net6.0\6_Files.csproj.CoreCompileInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\obj\Debug\net6.0\6_Files.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\obj\Debug\net6.0\refint\6_Files.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\obj\Debug\net6.0\6_Files.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\obj\Debug\net6.0\6_Files.genruntimeconfig.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\6_Files\6_Files\obj\Debug\net6.0\ref\6_Files.dll
