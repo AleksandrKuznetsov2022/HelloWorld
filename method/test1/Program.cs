@@ -16,5 +16,5 @@ static string[] SplitToWords(string inputPhrase)
 }
 Console.WriteLine("Введите слова разделенные пробелом");
 string inputPhrase = Console.ReadLine();
-ReversWord(inputPhrase);
-Console.WriteLine(inputPhrase);
+string result = ReversWord(inputPhrase);
+Console.WriteLine(result);
