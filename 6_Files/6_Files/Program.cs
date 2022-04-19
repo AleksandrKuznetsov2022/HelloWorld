@@ -34,8 +34,8 @@ static void WriteFile(char symbol)
             Console.WriteLine("Введите место рождения");
             string place = Console.ReadLine();
             id += place;
-
             sw.WriteLine(id);
+
             Console.WriteLine("Добавить еще сотрудника? Нажмите 'д' для продолжения или 'н' для выхода");
             key = Console.ReadKey(true).KeyChar;
         } while (char.ToLower(key) == 'д');
