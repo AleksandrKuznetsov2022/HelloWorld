@@ -11,7 +11,7 @@ namespace _7_Structur
         //Поля
         private Workers[] workers;  // массив сотрудников
         private string path;        // переменная для доступа к файлу
-        int index;                  // Индекс массива для добавления сотрудника
+        int index;                  // Индекс структуры для добавления сотрудника
 
         //конструктор
         public Repository(string Path)
@@ -57,6 +57,29 @@ namespace _7_Structur
                 Console.WriteLine(this.workers[i].Print());
             }
         }
+        public void SortReposit()
+        {
+            this.workers = this.workers.OrderBy(x => x.Date).ToArray();
+            for (int i = 0; i < workers.Length; i++)
+            {
+                if (workers[i].Id != 0)
+                {
+                    Console.WriteLine(this.workers[i].Print());
+                }
+            }
+        }
+        public void SortRepositDescending()
+        {
+            this.workers = this.workers.OrderByDescending(x => x.Date).ToArray();
+            for (int i = 0; i < workers.Length; i++)
+            {
+                if (workers[i].Id != 0)
+                {
+                    Console.WriteLine(this.workers[i].Print());
+                }
+            }
+        }
+
         //Метод вывода строки по ID
         public void IDWorkers(int ID)
         {
@@ -87,20 +110,17 @@ namespace _7_Structur
                     sw.WriteLine($"{temp}");
                 }
         }
-        //получить диапазон дат
-        public void GetDate(DateTime startingDate, DateTime endingDate)
+        //нахождение записей в интервале дат
+        public void SwitchByDate(string WorkersDataStart, string WorkersDataEnd)
         {
-            DateTime[] allDates = new DateTime[this.index];
-                          
-            for (DateTime date = startingDate; date <= endingDate; date = date.AddDays(1))
+                      workers = .GetAll().Where(e => e.Date >= DateTime.Parse(WorkersDataStart)
+                      && e.Date <= DateTime.Parse(WorkersDataEnd));
+
+            for (int i = 0; i < index; i++)
             {
-                allDates.Add(date);// что сюда пихать?
+                Console.WriteLine(this.workers[i].Print);                                  
             }
-                
-            
 
-
-            
         }
     }
 }

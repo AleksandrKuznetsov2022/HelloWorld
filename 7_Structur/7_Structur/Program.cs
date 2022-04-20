@@ -6,15 +6,76 @@ namespace _7_Structur
         static void Main(string[] args)
         {
             string path = @"Workers.txt";
-            Repository rep = new Repository(path);
-            // rep.Add(new Workers(10, DateTime.Now, "Иванов Иван Иваныч", "56", "180", "1980.2.1", "Красноярск"));
-            // Метод ручного добавления
-            //Console.WriteLine($"{"ID",3}{"Дата и Время",20}{"Ф.И.О.",30}{"Возраст",8}{"Рост",5}{"Дата Рождения",14}{"Место Рождения",20}");
-            //rep.Add(new Workers(Convert.ToInt32(Console.ReadLine()), DateTime.Now, Console.ReadLine(), Console.ReadLine(), Console.ReadLine(), Console.ReadLine(), Console.ReadLine()));
-            rep.IDWorkers(5);
-            //rep.PrintReposit();
-            //rep.SaveFile(path);
-            
+            var rep = new Repository(path);
+            Console.WriteLine("Какую команду Вы хотите выполнить?:");
+            Console.WriteLine("Показать список сотрудников на экране. Нажмите 1:");
+            Console.WriteLine("Добавить нового сотрудника. Нажмите 2:");
+            Console.WriteLine("Редактировать записи. Нажмите 3:");
+            Console.WriteLine("Показать записи в выбранном диапазоне дат. Нажмите 4:");
+            Console.WriteLine("Сортировать по убыванию даты записи. Нажмите 5:");
+            Console.WriteLine("Сортировать по возрастанию даты записи. Нажмите 6:");
+            Console.WriteLine("Выбрать и удалить запись о работнике. Нажмите 7:");
+            while (true)
+            {
+                int userinput = int.Parse(Console.ReadLine());
+                int programm = userinput;
+                switch (programm)
+                {
+                    case 1:
+                        {
+                            rep.PrintReposit();
+                            break;
+                        }
+                    case 2:
+                        {
+                            Console.WriteLine("Введите данные сотрудника через запятую:\nID,Дату заполнения, ФИО, Возраст, Рост, Дата рождения, Место рождения ");
+                            var userFullName = Console.ReadLine();
+                            rep.Add(new Workers(Convert.ToInt32(userFullName.Split(',')[0]), Convert.ToDateTime(userFullName.Split(',')[1]), userFullName.Split(',')[2], userFullName.Split(',')[3], userFullName.Split(',')[4], userFullName.Split(',')[5], userFullName.Split(',')[6]));
+                            rep.SaveFile(path);
+                            break;
+                        }
+                    case 3:
+                        {
+
+                            break;
+                        }
+                    case 4:
+                        {
+                            Console.WriteLine("Введите начальную дату");
+                            var WorkersDataStart = (Console.ReadLine());
+                            Console.WriteLine("Введите конечную дату");
+                            var WorkersDataEnd = (Console.ReadLine());
+                            break;
+                        }
+                    case 5:
+                        {
+                            rep.SortRepositDescending();
+                            break;
+                        }
+                    case 6:
+                        {
+                            rep.SortReposit();
+                            break;
+                        }
+                    case 7:
+                        {
+
+                            break;
+                        }
+                 Console.ReadKey();
+
+                }
+                    
+                
+                //rep.IDWorkers(5);
+               
+                
+               
+
+
+                //rep.GetDate(date1, date2);
+            }
+
         }
 
         

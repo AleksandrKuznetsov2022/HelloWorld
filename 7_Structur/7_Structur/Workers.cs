@@ -49,5 +49,10 @@
         {
             return $"{this.id}";
         }
+
+        internal static IEnumerable<object> GetAll()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
