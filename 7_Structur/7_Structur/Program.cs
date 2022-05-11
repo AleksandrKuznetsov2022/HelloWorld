@@ -1,4 +1,9 @@
-﻿using System.Text;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
 namespace _7_Structur
 {
     class Program
@@ -15,7 +20,8 @@ namespace _7_Structur
             Console.WriteLine("Сортировать по убыванию даты записи. Нажмите 5:");
             Console.WriteLine("Сортировать по возрастанию даты записи. Нажмите 6:");
             Console.WriteLine("Выбрать и удалить запись о работнике. Нажмите 7:");
-            while (true)
+            rep.IDWorkers(5);
+                       while (true)
             {
                 int userinput = int.Parse(Console.ReadLine());
                 int programm = userinput;
@@ -36,7 +42,7 @@ namespace _7_Structur
                         }
                     case 3:
                         {
-
+                            
                             break;
                         }
                     case 4:
@@ -45,6 +51,19 @@ namespace _7_Structur
                             var WorkersDataStart = (Console.ReadLine());
                             Console.WriteLine("Введите конечную дату");
                             var WorkersDataEnd = (Console.ReadLine());
+                            var workerss = rep.GetAll().Where(e => e.Date >= DateTime.Parse(WorkersDataStart)
+                                                                 && e.Date <= DateTime.Parse(WorkersDataEnd));
+                            foreach (var workers in workerss)
+                            {
+                                Console.WriteLine(workers.Id + " "+
+                                             workers.Date + " " +
+                                             workers.Ini + " " +
+                                             workers.Age + " " +
+                                             workers.Lenght + " " +
+                                             workers.Birth + " " +
+                                             workers.Place);
+                            }
+
                             break;
                         }
                     case 5:
@@ -59,6 +78,21 @@ namespace _7_Structur
                         }
                     case 7:
                         {
+                         Found:
+                            Console.WriteLine("Введите Id сотрудника для удаления");
+                            var OldWorker = Int32.Parse(Console.ReadLine());
+
+                            var worker = rep.GetById(OldWorker);
+
+                            if (worker.Id == null)
+                            {
+                                Console.WriteLine("Такого сотрудника нет в списке");
+                                goto Found;
+                            }
+
+                            Console.WriteLine("Повторно введите Id сотрудника для удаления");
+                            var oldEmployee = Console.ReadLine();
+                            worker.Id = int.Parse(oldEmployee);
 
                             break;
                         }
@@ -66,14 +100,7 @@ namespace _7_Structur
 
                 }
                     
-                
-                //rep.IDWorkers(5);
-               
-                
-               
-
-
-                //rep.GetDate(date1, date2);
+             
             }
 
         }

@@ -9,7 +9,7 @@ namespace _7_Structur
     struct Repository
     {
         //Поля
-        private Workers[] workers;  // массив сотрудников
+        public Workers[] workers;  // массив сотрудников
         private string path;        // переменная для доступа к файлу
         int index;                  // Индекс структуры для добавления сотрудника
 
@@ -21,7 +21,14 @@ namespace _7_Structur
             this.workers = new Workers[1];
             this.Load();
         }
+        // Список сотрудника (частный вспомогательный список)
 
+        // Получаем список всех сотрудников
+        public Workers[] GetAll()
+        {
+            return workers;
+        }
+        //Увеличение массива сотрудников
         private void ResizeArr(bool flag)
         {
             if (flag)
@@ -93,6 +100,13 @@ namespace _7_Structur
                 }
             }
         }
+        // Удаляем сотрудника
+        public void Remove(Workers worker)
+        {
+            var oldworker = workers.FirstOrDefault(e => e.Id == worker.Id);
+         
+        }
+     
         //Сохранение репозитория в файл
         public void SaveFile(string Path)
         {
@@ -110,17 +124,12 @@ namespace _7_Structur
                     sw.WriteLine($"{temp}");
                 }
         }
-        //нахождение записей в интервале дат
-        public void SwitchByDate(string WorkersDataStart, string WorkersDataEnd)
+
+        public Workers GetById(int id)
         {
-                      workers = .GetAll().Where(e => e.Date >= DateTime.Parse(WorkersDataStart)
-                      && e.Date <= DateTime.Parse(WorkersDataEnd));
-
-            for (int i = 0; i < index; i++)
-            {
-                Console.WriteLine(this.workers[i].Print);                                  
-            }
-
+            return workers.FirstOrDefault(e => e.Id == id);
         }
+
+
     }
 }
