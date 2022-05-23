@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+
 namespace _7_Structur
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
@@ -20,8 +21,8 @@ namespace _7_Structur
             Console.WriteLine("Сортировать по убыванию даты записи. Нажмите 5:");
             Console.WriteLine("Сортировать по возрастанию даты записи. Нажмите 6:");
             Console.WriteLine("Выбрать и удалить запись о работнике. Нажмите 7:");
-            rep.IDWorkers(5);
-                       while (true)
+            
+            while (true)
             {
                 int userinput = int.Parse(Console.ReadLine());
                 int programm = userinput;
@@ -37,12 +38,48 @@ namespace _7_Structur
                             Console.WriteLine("Введите данные сотрудника через запятую:\nID,Дату заполнения, ФИО, Возраст, Рост, Дата рождения, Место рождения ");
                             var userFullName = Console.ReadLine();
                             rep.Add(new Workers(Convert.ToInt32(userFullName.Split(',')[0]), Convert.ToDateTime(userFullName.Split(',')[1]), userFullName.Split(',')[2], userFullName.Split(',')[3], userFullName.Split(',')[4], userFullName.Split(',')[5], userFullName.Split(',')[6]));
-                            rep.SaveFile(path);
+                            rep.SaveChanges();
                             break;
                         }
                     case 3:
                         {
-                            
+                            Found:
+                            Console.WriteLine("Введите Id сотрудника для редоктирования");
+                            var IdOld = Int32.Parse(Console.ReadLine());
+                            var worker = rep.GetById(IdOld);
+
+                            Console.WriteLine("Введите новое Id сотрудника");
+                            var NewId = Console.ReadLine();
+                            worker.Id = int.Parse(NewId);
+
+                            Console.WriteLine("Введите новую дату и время записи сотрудника");
+                            var NewDate = Console.ReadLine();
+                            worker.Date = DateTime.Parse(NewDate);
+
+                            Console.WriteLine("Введите новое Ф.И.О сотрудника");
+                            var NewIni = Console.ReadLine();
+                            worker.Ini = NewIni;
+
+                            Console.WriteLine("Введите новый возраст сотрудника");
+                            var NewAge = Console.ReadLine();
+                            worker.Age = NewAge;
+
+                            Console.WriteLine("Введите новый рост сотрудника");
+                            var NewLenght = Console.ReadLine();
+                            worker.Lenght = NewLenght;
+
+                            Console.WriteLine("Введите новую дату рождения сотрудника");
+                            var NewBirth = Console.ReadLine();
+                            worker.Birth = NewBirth;
+
+                            Console.WriteLine("Введите новое место рождения сотрудника");
+                            var NewPlace = Console.ReadLine();
+                            worker.Place = NewPlace;
+
+                            rep.Remove(worker);
+                            rep.Add(worker);
+                            rep.SaveChanges();
+
                             break;
                         }
                     case 4:
@@ -75,25 +112,15 @@ namespace _7_Structur
                         {
                             rep.SortReposit();
                             break;
-                        }
+                        }   
                     case 7:
                         {
                          Found:
                             Console.WriteLine("Введите Id сотрудника для удаления");
-                            var OldWorker = Int32.Parse(Console.ReadLine());
-
-                            var worker = rep.GetById(OldWorker);
-
-                            if (worker.Id == null)
-                            {
-                                Console.WriteLine("Такого сотрудника нет в списке");
-                                goto Found;
-                            }
-
-                            Console.WriteLine("Повторно введите Id сотрудника для удаления");
-                            var oldEmployee = Console.ReadLine();
-                            worker.Id = int.Parse(oldEmployee);
-
+                            var IdOld = Int32.Parse(Console.ReadLine());
+                            var worker = rep.GetById(IdOld);
+                            rep.Remove(worker);
+                            rep.SaveChanges();
                             break;
                         }
                  Console.ReadKey();

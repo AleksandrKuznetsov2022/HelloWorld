@@ -13,3 +13,18 @@ C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\7_Structur\7_St
 C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\7_Structur\7_Structur\obj\Debug\net6.0\7_Structur.pdb
 C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\7_Structur\7_Structur\obj\Debug\net6.0\7_Structur.genruntimeconfig.cache
 C:\Users\Spame\OneDrive\Рабочий стол\youtube\practika\7_Structur\7_Structur\obj\Debug\net6.0\ref\7_Structur.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\bin\Debug\net6.0\7_Structur.exe
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\bin\Debug\net6.0\7_Structur.deps.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\bin\Debug\net6.0\7_Structur.runtimeconfig.json
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\bin\Debug\net6.0\7_Structur.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\bin\Debug\net6.0\7_Structur.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\obj\Debug\net6.0\7_Structur.csproj.AssemblyReference.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\obj\Debug\net6.0\7_Structur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\obj\Debug\net6.0\7_Structur.AssemblyInfoInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\obj\Debug\net6.0\7_Structur.AssemblyInfo.cs
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\obj\Debug\net6.0\7_Structur.csproj.CoreCompileInputs.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\obj\Debug\net6.0\7_Structur.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\obj\Debug\net6.0\refint\7_Structur.dll
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\obj\Debug\net6.0\7_Structur.pdb
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\obj\Debug\net6.0\7_Structur.genruntimeconfig.cache
+C:\Users\Spame\OneDrive\Документы\GitHub\HelloWorld\7_Structur\7_Structur\obj\Debug\net6.0\ref\7_Structur.dll

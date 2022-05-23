@@ -12,14 +12,14 @@ namespace _7_Structur
         public Workers[] workers;  // массив сотрудников
         private string path;        // переменная для доступа к файлу
         int index;                  // Индекс структуры для добавления сотрудника
-
+        
         //конструктор
         public Repository(string Path)
         {
             this.path = Path;
             this.index = 0;
             this.workers = new Workers[1];
-            this.Load();
+            Load();
         }
         // Список сотрудника (частный вспомогательный список)
 
@@ -103,33 +103,32 @@ namespace _7_Structur
         // Удаляем сотрудника
         public void Remove(Workers worker)
         {
-            var oldworker = workers.FirstOrDefault(e => e.Id == worker.Id);
-         
-        }
-     
+            workers = workers.Where(e => e.Id != worker.Id).ToArray();            
+        }     
         //Сохранение репозитория в файл
-        public void SaveFile(string Path)
+        
+        public void SaveChanges()
         {
-            using (StreamWriter sw = new StreamWriter(Path, false, Encoding.Unicode))
-                for (int i = 0; i < this.index; i++)
+            using (StreamWriter sw = new StreamWriter("Workers.txt", false, Encoding.Unicode))
+            {
+                foreach (var workers in workers)
                 {
-                    string temp = String.Format("{0}#{1}#{2}#{3}#{4}#{5}#{6}",
-                                        this.workers[i].Id,
-                                        this.workers[i].Date,
-                                        this.workers[i].Ini,
-                                        this.workers[i].Age,
-                                        this.workers[i].Lenght,
-                                        this.workers[i].Birth,
-                                        this.workers[i].Place);
-                    sw.WriteLine($"{temp}");
+                    if (workers.Id != 0)
+                           sw.WriteLine(workers.Id + "#" +
+                                        workers.Date + "#" +
+                                        workers.Ini + "#" +
+                                        workers.Age + "#" +
+                                        workers.Lenght + "#" +
+                                        workers.Birth + "#" +
+                                        workers.Place);
                 }
+            }
         }
-
         public Workers GetById(int id)
         {
             return workers.FirstOrDefault(e => e.Id == id);
         }
 
-
+       
     }
 }
